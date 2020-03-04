@@ -1,0 +1,19 @@
+
+
+/* Nunito */
+
+
+@font-face {
+  font-family: 'nunito-regular';
+   src: url('../fonts/nunito-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nunito-semi-bold';
+   src: url('../fonts/nunito-semi-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nunito-bold';
+   src: url('../fonts/nunito-bold.ttf') format('truetype');
+}
